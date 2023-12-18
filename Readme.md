@@ -41,3 +41,6 @@ scp -i ~/.ssh/id_rsa user@host:/path/to/file user2@host2:/path/to/file
 ```
 
 ---
+
+#### Выполнение (со звездочкой)
+![img.png](img.png)
